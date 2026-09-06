@@ -1,11 +1,6 @@
-report_date: '2026-09-05 01:51:18'
-total_failed: 66
+report_date: '2026-09-06 01:45:11'
+total_failed: 64
 failed_feeds:
-- name: The Academia Waltz
-  url: https://comiccaster.xyz/rss/the-academia-waltz
-  error: 'Request failed: fetch failed'
-  feed_type: null
-  status: needs_investigation
 - name: Art by Moga
   url: https://comiccaster.xyz/rss/artbymoga
   error: Feed contains only generic promotional content
@@ -254,11 +249,6 @@ failed_feeds:
 - name: Bob Gorrell
   url: https://comiccaster.xyz/rss/bobgorrell
   error: HTTP 404
-  feed_type: null
-  status: needs_investigation
-- name: Gary Markstein
-  url: https://comiccaster.xyz/rss/garymarkstein
-  error: 'Request failed: fetch failed'
   feed_type: null
   status: needs_investigation
 - name: Matt Bors
